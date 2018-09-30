@@ -1,5 +1,9 @@
 # About Battle Tetris
 
+## Compile and test
+
+깃허브에 올라와 있는 소스파일과 헤더파일을 각각 비주얼 스튜디오 2017로 컴파일하여 실행하면 됩니다. 솔루션 파일과 Debug 폴더가 생성될텐데, Debug 폴더 내에 `music` 디렉토리에 있는 음악 파일들을 넣어주시면 사운드와 함께 재생될 겁니다.
+
 ![game](images/game.png)
 
 ## 1. 게임의 흐름 및 진행
