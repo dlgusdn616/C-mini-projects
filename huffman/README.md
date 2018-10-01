@@ -87,4 +87,4 @@
     ![incoding](images/5-output_after_encoding.PNG)
 
     또한 출력된 허프만코드들을 다시 디코딩을 위해 넣어주면 본래의 문자가 출력됩니다.
-    ![decoding](images/6-decoding_output_of_encoding.png)
+    ![decoding](images/6-decoding_output_of_encoding.PNG)
