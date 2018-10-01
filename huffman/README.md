@@ -74,17 +74,17 @@
 3. 입력이 끝난 후 엔터를 누르면 결과들을 볼 수 있습니다.
 
 4. preorder_traversal_heap: 유저가 입력한 문자와 빈도수를 토대로 프로그램 내의 힙 삽입 연산이 발생할 때마다 그때그때의 힙 상황을 전위순회 방식으로 출력합니다.
-    ![preorder_heap](images/2-print_heap_array_with_preorder_traversal_when_add_element.png)
+    ![preorder_heap](images/2-print_heap_array_with_preorder_traversal_when_add_element.PNG)
 
 5. preorder_traversal_huffman_tree: 완성된 허프만 트리를 전위순회 방식으로 순회하며 각 노드의 정보를 출력합니다.
     단말 노드일 경우 유저가 입력한 문자 표시되며 허프만 트리 생성 과정에서 생성된 중간 노드는 W-n(n은 순차적으로 부여된 숫자) 형태의 정보로 표시됩니다.
-    ![preorder_huffman](images/3-print_all_elements_of_huffman_tree_and_inforamtion_of_each_element_of_huffman.png)
+    ![preorder_huffman](images/3-print_all_elements_of_huffman_tree_and_inforamtion_of_each_element_of_huffman.PNG)
 
 6. print storage neede to fixed expressions | variable expressions: 허프만 트리를 이용할 시의 길이 계산과 고정 길이 방식을 채택했을 때의 계산을 진행하고 결과를 출력합니다.
-    ![storage](images/4-print_storage-needed_to_store_fixed_length_and_flexible_length.png)
+    ![storage](images/4-print_storage-needed_to_store_fixed_length_and_flexible_length.PNG)
 
 7. incode huffman or decode huffman: 생성된 허프만 트리, 코드를 바탕으로 인코딩과 디코딩 과정을 진행합니다. 유저가 원하는 인코딩 문자를 입력하면, 각 문자에 해당하는 허프만코드들을 출력합니다. 단, 기존에 입력 했던 문자 외의 것을 입력하면 안됩니다.
-    ![incoding](images/5-output_after_encoding.png)
+    ![incoding](images/5-output_after_encoding.PNG)
 
     또한 출력된 허프만코드들을 다시 디코딩을 위해 넣어주면 본래의 문자가 출력됩니다.
     ![decoding](images/6-decoding_output_of_encoding.png)
